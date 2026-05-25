@@ -2,7 +2,7 @@
   "source": "Yahoo Finance",
   "description": "国际原油及能源价格实时行情",
   "unit": "USD",
-  "updated_at": "2026-05-25T16:39:51Z",
+  "updated_at": "2026-05-25T20:52:09Z",
   "data": [
     {
       "symbol": "CL=F",
@@ -12,9 +12,9 @@
       "price": 96.6,
       "change": 0.25,
       "change_percent": 0.26,
-      "day_high": 93.88,
-      "day_low": 90.32,
-      "volume": 99893
+      "day_high": 93.9,
+      "day_low": 89.41,
+      "volume": 112313
     },
     {
       "symbol": "BZ=F",
@@ -25,8 +25,8 @@
       "change": 0.71,
       "change_percent": 0.71,
       "day_high": 97.59,
-      "day_low": 94.01,
-      "volume": 13789
+      "day_low": 93.2,
+      "volume": 15802
     },
     {
       "symbol": "NG=F",
@@ -37,8 +37,8 @@
       "change": -0.13,
       "change_percent": -4.28,
       "day_high": 3.1,
-      "day_low": 2.99,
-      "volume": 24000
+      "day_low": 2.98,
+      "volume": 27494
     },
     {
       "symbol": "RB=F",
@@ -50,7 +50,7 @@
       "change_percent": 2.31,
       "day_high": 3.27,
       "day_low": 3.18,
-      "volume": 12845
+      "volume": 13593
     },
     {
       "symbol": "HO=F",
@@ -62,7 +62,7 @@
       "change_percent": 1.29,
       "day_high": 3.71,
       "day_low": 3.57,
-      "volume": 12453
+      "volume": 13830
     }
   ]
 }
