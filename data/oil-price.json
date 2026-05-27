@@ -2,67 +2,67 @@
   "source": "Yahoo Finance",
   "description": "国际原油及能源价格实时行情",
   "unit": "USD",
-  "updated_at": "2026-05-26T23:44:21Z",
+  "updated_at": "2026-05-27T12:33:36Z",
   "data": [
     {
       "symbol": "CL=F",
       "name_cn": "WTI原油",
       "name_en": "WTI Crude Oil",
       "unit": "USD/bbl",
-      "price": 93.35,
-      "change": -0.54,
-      "change_percent": -0.58,
+      "price": 88.37,
+      "change": -5.52,
+      "change_percent": -5.88,
       "day_high": 93.69,
-      "day_low": 93.29,
-      "volume": 2078
+      "day_low": 88.25,
+      "volume": 84031
     },
     {
       "symbol": "BZ=F",
       "name_cn": "布伦特原油",
       "name_en": "Brent Crude Oil",
       "unit": "USD/bbl",
-      "price": 96.45,
-      "change": -0.22,
-      "change_percent": -0.23,
-      "day_high": 96.93,
-      "day_low": 96.27,
-      "volume": 251
+      "price": 92.24,
+      "change": -4.43,
+      "change_percent": -4.58,
+      "day_high": 96.96,
+      "day_low": 92.18,
+      "volume": 22098
     },
     {
       "symbol": "NG=F",
       "name_cn": "天然气",
       "name_en": "Natural Gas",
       "unit": "USD/MMBtu",
-      "price": 3.01,
-      "change": 0.0,
-      "change_percent": 0.13,
-      "day_high": 3.02,
-      "day_low": 3.01,
-      "volume": 413
+      "price": 3.05,
+      "change": 0.04,
+      "change_percent": 1.46,
+      "day_high": 3.08,
+      "day_low": 2.98,
+      "volume": 27246
     },
     {
       "symbol": "RB=F",
       "name_cn": "RBOB汽油",
       "name_en": "RBOB Gasoline",
       "unit": "USD/gal",
-      "price": 3.14,
-      "change": -0.01,
-      "change_percent": -0.27,
+      "price": 3.01,
+      "change": -0.14,
+      "change_percent": -4.46,
       "day_high": 3.15,
-      "day_low": 3.13,
-      "volume": 149
+      "day_low": 3.0,
+      "volume": 16997
     },
     {
       "symbol": "HO=F",
       "name_cn": "取暖油",
       "name_en": "Heating Oil",
       "unit": "USD/gal",
-      "price": 3.62,
-      "change": -0.0,
-      "change_percent": -0.11,
+      "price": 3.46,
+      "change": -0.16,
+      "change_percent": -4.35,
       "day_high": 3.63,
-      "day_low": 3.61,
-      "volume": 181
+      "day_low": 3.46,
+      "volume": 9514
     }
   ]
 }
