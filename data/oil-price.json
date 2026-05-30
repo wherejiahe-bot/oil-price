@@ -2,43 +2,43 @@
   "source": "Yahoo Finance",
   "description": "国际原油及能源价格实时行情",
   "unit": "USD",
-  "updated_at": "2026-05-29T19:55:42Z",
+  "updated_at": "2026-05-30T00:16:42Z",
   "data": [
     {
       "symbol": "CL=F",
       "name_cn": "WTI原油",
       "name_en": "WTI Crude Oil",
       "unit": "USD/bbl",
-      "price": 88.07,
-      "change": -0.83,
-      "change_percent": -0.93,
+      "price": 87.76,
+      "change": -1.14,
+      "change_percent": -1.28,
       "day_high": 89.02,
-      "day_low": 86.36,
-      "volume": 237390
+      "day_low": 86.35,
+      "volume": 242918
     },
     {
       "symbol": "BZ=F",
       "name_cn": "布伦特原油",
       "name_en": "Brent Crude Oil",
       "unit": "USD/bbl",
-      "price": 91.86,
-      "change": -0.84,
-      "change_percent": -0.91,
+      "price": 91.7,
+      "change": -1.0,
+      "change_percent": -1.08,
       "day_high": 92.89,
       "day_low": 89.94,
-      "volume": 37762
+      "volume": 38381
     },
     {
       "symbol": "NG=F",
       "name_cn": "天然气",
       "name_en": "Natural Gas",
       "unit": "USD/MMBtu",
-      "price": 3.29,
-      "change": 0.0,
-      "change_percent": 0.03,
+      "price": 3.27,
+      "change": -0.01,
+      "change_percent": -0.37,
       "day_high": 3.39,
       "day_low": 3.27,
-      "volume": 147888
+      "volume": 151828
     },
     {
       "symbol": "RB=F",
@@ -47,22 +47,22 @@
       "unit": "USD/gal",
       "price": 3.05,
       "change": -0.05,
-      "change_percent": -1.56,
+      "change_percent": -1.74,
       "day_high": 3.11,
       "day_low": 3.01,
-      "volume": 47466
+      "volume": 47800
     },
     {
       "symbol": "HO=F",
       "name_cn": "取暖油",
       "name_en": "Heating Oil",
       "unit": "USD/gal",
-      "price": 3.53,
-      "change": -0.02,
-      "change_percent": -0.67,
+      "price": 3.51,
+      "change": -0.04,
+      "change_percent": -1.1,
       "day_high": 3.6,
       "day_low": 3.46,
-      "volume": 39154
+      "volume": 39797
     }
   ]
 }
